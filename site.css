@@ -1,0 +1,10 @@
+.loadingIcon{
+    margin-top: 50px;
+}
+.reload {
+    color: blue;
+}
+.reload:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
